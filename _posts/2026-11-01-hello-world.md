@@ -7,8 +7,6 @@ tags: meta
 categories: personal
 ---
 
-<!-- TODO: rewrite this post or delete it. New posts go in _posts/ as YYYY-MM-DD-title.md. -->
+Welcome to my blog! I plan to write here about hydrology, scientific machine learning, and the questions that come up where the two meet: how to build models that are accurate, physically consistent, and trustworthy enough to support real water-resources decisions.
 
-Welcome to my blog! I plan to write here about [TOPICS: e.g. my research, papers I'm reading, tools I use, and life in academia].
-
-[A FEW SENTENCES ABOUT WHAT READERS CAN EXPECT.]
+Stay tuned.

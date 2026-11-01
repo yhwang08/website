@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: "[YOUR POSITION] at [YOUR DEPARTMENT], [YOUR INSTITUTION]" # TODO
+subtitle: Postdoctoral Researcher at <a href='https://icsi.berkeley.edu/'>ICSI</a> and <a href='https://www.lbl.gov/'>Lawrence Berkeley National Laboratory</a>
 
 profile:
   align: right
-  # image: prof_pic.jpg # TODO: put your photo at assets/img/prof_pic.jpg (it is currently the demo Einstein photo), then uncomment this line
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>[OFFICE / BUILDING]</p>
-    <p>[INSTITUTION]</p>
-    <p>[CITY, COUNTRY]</p>
+    <p>International Computer Science Institute</p>
+    <p>Lawrence Berkeley National Laboratory</p>
+    <p>Berkeley, CA</p>
 
 selected_papers: false # set to true once you add papers to _bibliography/papers.bib
 social: true # includes social icons at the bottom of the page
@@ -27,18 +27,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<!-- TODO: replace everything in [BRACKETS] below with your own details. -->
+I am a Postdoctoral Researcher at the [International Computer Science Institute (ICSI)](https://icsi.berkeley.edu/) and [Lawrence Berkeley National Laboratory](https://www.lbl.gov/), where I am part of ICSI's Deep Learning Group. My research lies at the intersection of **hydrology** and **scientific machine learning**, with a focus on developing reliable, physically consistent, and interpretable models for hydrology and Earth system science.
 
-I am a [YOUR POSITION, e.g. PhD student / postdoc / assistant professor] in [YOUR DEPARTMENT] at [YOUR INSTITUTION], where I work with [ADVISOR / LAB / GROUP]. My research focuses on [ONE-SENTENCE SUMMARY OF YOUR RESEARCH AREA].
+My work includes:
 
-More specifically, I am interested in:
+- **Modern deep learning for hydrology:** advancing architectures such as state-space models and diffusion-based generative models for streamflow simulation and probabilistic forecasting.
+- **Physics-aware neural networks:** embedding mass-conservation principles into neural networks to study how physical constraints affect predictive performance, generalization, and learned representations across diverse hydroclimatic conditions.
 
-- [RESEARCH INTEREST 1]
-- [RESEARCH INTEREST 2]
-- [RESEARCH INTEREST 3]
+I aim to develop deep learning methods that more effectively integrate hydrologic knowledge, and to foster collaboration between the hydrologic science and artificial intelligence communities. My broader goal is to build accurate and reliable modeling tools for understanding and predicting water-system behavior, supporting hazard preparedness and informed water-resources decision-making.
 
-[A SENTENCE OR TWO ON THE PROBLEMS YOU WANT TO SOLVE, OR WHAT DRIVES YOUR WORK.]
+I received my Ph.D. from the University of Oklahoma, my M.S. from the University of California, Los Angeles, and my B.E. from Hohai University.
 
-Before [YOUR INSTITUTION], I received my [DEGREE] in [FIELD] from [PREVIOUS INSTITUTION]. Outside of research, I enjoy [HOBBIES / INTERESTS].
-
-I am always happy to talk about research and collaborations. The best way to reach me is by email.
+A full list of my publications is on [Google Scholar](https://scholar.google.com/citations?user=MkTGi1QAAAAJ). I'm always happy to talk about research and collaborations. The best way to reach me is by email.

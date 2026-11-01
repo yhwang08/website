@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research and side projects.
+description: Current and past research directions.
 nav: true
 nav_order: 1
-display_categories: [research, personal]
+display_categories: [research]
 horizontal: false
 ---
 

@@ -3,19 +3,19 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Firstname # TODO: your first name
+first_name: Yihan
 middle_name:
-last_name: Lastname # TODO: your last name
+last_name: Wang
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website of Firstname Lastname, [YOUR POSITION] at [YOUR INSTITUTION].
+  Yihan Wang is a Postdoctoral Researcher at ICSI and Lawrence Berkeley National Laboratory, working at the intersection of hydrology and scientific machine learning.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: academic, research # add your own keywords or leave empty
+keywords: hydrology, scientific machine learning, deep learning, streamflow forecasting, physics-aware neural networks, Earth system science # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 💧 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://yhwang08.github.io # the base hostname & protocol for your site
 baseurl: /website # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -91,7 +91,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: blog # blog_name will be displayed in your blog page
-blog_description: notes on research and other things
+blog_description: notes on hydrology, machine learning, and research
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
