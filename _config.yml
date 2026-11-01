@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Yihan Wang # the website title (if blank, full name will be used instead)
 first_name: Yihan
 middle_name:
 last_name: Wang
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Yihan Wang is a Postdoctoral Researcher at ICSI and Lawrence Berkeley National Laboratory, working at the intersection of hydrology and scientific machine learning.
+  Yihan Wang is a Postdoctoral Researcher at Lawrence Berkeley National Laboratory, also affiliated with ICSI, working at the intersection of hydrology and scientific machine learning.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
