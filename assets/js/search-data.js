@@ -7,21 +7,21 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/website/";
     },
   },{id: "nav-projects",
           title: "projects",
           description: "Current and past research directions.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/website/projects/";
           },
         },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/website/blog/";
           },
         },{id: "post-hello-world",
         
@@ -31,14 +31,14 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/hello-world/";
+            window.location.href = "/website/blog/2026/hello-world/";
           
         },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/website/books/the_godfather/";
             },},{id: "news-joined-the-international-computer-science-institute-icsi-and-lawrence-berkeley-national-laboratory-as-a-postdoctoral-researcher",
           title: 'Joined the International Computer Science Institute (ICSI) and Lawrence Berkeley National Laboratory as...',
           description: "",
@@ -49,22 +49,22 @@ ninja.data = [{
           title: 'Deep learning for streamflow simulation and forecasting',
           description: "State-space models and diffusion-based generative models for streamflow simulation and probabilistic forecasting.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_streamflow_forecasting/";
+              window.location.href = "/website/projects/1_streamflow_forecasting/";
             },},{id: "projects-physics-aware-neural-networks-for-hydrology",
           title: 'Physics-aware neural networks for hydrology',
           description: "Embedding mass conservation into neural networks to study how physical constraints shape performance, generalization, and learned representations.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_physics_aware_networks/";
+              window.location.href = "/website/projects/2_physics_aware_networks/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
+              window.location.href = "/website/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/website/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -98,7 +98,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("/website/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',
