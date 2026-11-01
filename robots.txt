@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yhwang08.github.io/website/sitemap.xml
+Sitemap: https://yihan-wang-hydro.com/sitemap.xml
