@@ -16,31 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/projects/";
           },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/website/blog/";
-          },
-        },{id: "post-hello-world",
-        
-          title: "Hello, world",
-        
-        description: "A first post on my new website.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/website/blog/2026/hello-world/";
-          
-        },
-      },{id: "books-the-godfather",
+        },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/website/books/the_godfather/";
-            },},{id: "news-joined-the-international-computer-science-institute-icsi-and-lawrence-berkeley-national-laboratory-as-a-postdoctoral-researcher",
-          title: 'Joined the International Computer Science Institute (ICSI) and Lawrence Berkeley National Laboratory as...',
+            },},{id: "news-joined-lawrence-berkeley-national-laboratory-as-a-postdoctoral-researcher-with-an-affiliation-at-the-international-computer-science-institute-icsi",
+          title: 'Joined Lawrence Berkeley National Laboratory as a Postdoctoral Researcher, with an affiliation at...',
           description: "",
           section: "News",},{id: "news-launched-my-personal-website",
           title: 'Launched my personal website! 🎉',
@@ -92,13 +74,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/yhwang08", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/website/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',
