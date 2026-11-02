@@ -36,4 +36,4 @@ Through this work, I aim to bridge advances in artificial intelligence with doma
 
 I received my Ph.D. from the University of Oklahoma, my M.S. from the University of California, Los Angeles, and my B.E. from Hohai University.
 
-You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=MkTGi1QAAAAJ). I welcome discussions and potential collaborations in hydrology, machine learning, and Earth system science. Feel free to reach out at [yhwang@icsi.berkeley.edu](mailto:yhwang08@icsi.berkeley.edu).
+You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=MkTGi1QAAAAJ). I welcome discussions and potential collaborations in hydrology, machine learning, and Earth system science. Feel free to reach out at [yhwang@icsi.berkeley.edu](mailto:yhwang@icsi.berkeley.edu).
