@@ -21,11 +21,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/website/books/the_godfather/";
-            },},{id: "news-joined-lawrence-berkeley-national-laboratory-as-a-postdoctoral-researcher-with-an-affiliation-at-the-international-computer-science-institute-icsi",
-          title: 'Joined Lawrence Berkeley National Laboratory as a Postdoctoral Researcher, with an affiliation at...',
+            },},{id: "news-started-as-a-postdoctoral-researcher-at-lawrence-berkeley-national-laboratory",
+          title: 'Started as a Postdoctoral Researcher at Lawrence Berkeley National Laboratory.',
           description: "",
-          section: "News",},{id: "news-launched-my-personal-website",
-          title: 'Launched my personal website! 🎉',
+          section: "News",},{id: "news-our-paper-hydrodiffusion-is-published-in-water-resources-research",
+          title: 'Our paper HydroDiffusion is published in Water Resources Research!',
+          description: "",
+          section: "News",},{id: "news-i-will-present-hydrodiffusion-at-agu26",
+          title: 'I will present HydroDiffusion at AGU26.',
           description: "",
           section: "News",},{id: "projects-deep-learning-for-streamflow-simulation-and-forecasting",
           title: 'Deep learning for streamflow simulation and forecasting',
