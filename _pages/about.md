@@ -29,11 +29,15 @@ My research lies at the intersection of **hydrology and scientific machine learn
 
 My current research focuses on two complementary directions:
 
-- **Modern deep learning for hydrology:** Exploring advanced architectures, including state-space models and diffusion-based generative models, to improve streamflow simulation, probabilistic forecasting, and uncertainty quantification.
+- **Modern deep learning for hydrology:** Exploring advanced architectures, including state-space models and diffusion-based generative models, to improve streamflow simulation and probabilistic forecasting.
 - **Physics-aware neural networks:** Incorporating physical principles, particularly mass conservation, into neural networks to investigate how physical constraints influence predictive accuracy, generalization, and learned representations across diverse hydroclimatic conditions.
 
 Through this work, I aim to bridge advances in artificial intelligence with domain knowledge in hydrology, fostering collaboration between the machine learning and hydrologic science communities. My broader goal is to develop accurate, robust, and physically meaningful modeling tools that advance our understanding of water systems, improve hydrologic predictions, and support hazard preparedness and informed water-resources management.
 
-I received my Ph.D. from the University of Oklahoma, my M.S. from the University of California, Los Angeles, and my B.E. from Hohai University.
-
 You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=MkTGi1QAAAAJ). I welcome discussions and potential collaborations in hydrology, machine learning, and Earth system science. Feel free to reach out at [yhwang@icsi.berkeley.edu](mailto:yhwang@icsi.berkeley.edu).
+
+## education
+
+- Ph.D., University of Oklahoma, 2023–2026
+- M.S., University of California, Los Angeles, 2019–2020
+- B.E., Hohai University, 2015–2019 (final undergraduate year at UCLA, 2018–2019)
