@@ -8,10 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Lawrence Berkeley National Laboratory</p>
-    <p>International Computer Science Institute</p>
-    <p>Berkeley, CA</p>
 
 selected_papers: false # set to true once you add papers to _bibliography/papers.bib
 social: true # includes social icons at the bottom of the page
