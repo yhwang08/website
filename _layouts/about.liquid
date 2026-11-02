@@ -10,6 +10,11 @@ layout: default
       {% else %}
         {{ site.title }}
       {% endif %}
+      {% if site.native_name %}
+        <span class="native-name" lang="zh" style="font-size: 0.6em; color: var(--global-text-color-light); margin-left: 0.3em">
+          {{- site.native_name -}}
+        </span>
+      {% endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
   </header>

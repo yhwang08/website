@@ -6,6 +6,7 @@ title: Yihan Wang # the website title (if blank, full name will be used instead)
 first_name: Yihan
 middle_name:
 last_name: Wang
+native_name: 王艺晗 # shown next to your name on the about page
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
