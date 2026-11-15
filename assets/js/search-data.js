@@ -25,7 +25,7 @@ ninja.data = [{
           title: 'Started as a Postdoctoral Researcher at Lawrence Berkeley National Laboratory.',
           description: "",
           section: "News",},{id: "news-our-paper-hydrodiffusion-is-published-in-water-resources-research",
-          title: 'Our paper HydroDiffusion is published in Water Resources Research!',
+          title: 'Our paper HydroDiffusion is published in Water Resources Research.',
           description: "",
           section: "News",},{id: "news-our-preprint-on-pecan-advancing-mass-conserving-deep-learning-for-distributed-hydrologic-modeling-a-case-study-in-a-snow-dominated-watershed-is-now-available-on-arxiv",
           title: 'Our preprint on PECAN, Advancing Mass-Conserving Deep Learning for Distributed Hydrologic Modeling: A...',
